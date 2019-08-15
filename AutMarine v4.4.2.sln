@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "AutMarine v4.4.2", "AutMari
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "AutBase", "AutBase\AutBase.vcxproj", "{C11FE4F2-4690-4FDA-ACE0-858439F4BD4F}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "AutNumeric", "AutNumeric\AutNumeric.vcxproj", "{EE2C2D8C-BB54-434B-819F-D56FAAFA9939}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -27,6 +29,12 @@ Global
 		{C11FE4F2-4690-4FDA-ACE0-858439F4BD4F}.Release|x64.ActiveCfg = Release|x64
 		{C11FE4F2-4690-4FDA-ACE0-858439F4BD4F}.Release|x64.Build.0 = Release|x64
 		{C11FE4F2-4690-4FDA-ACE0-858439F4BD4F}.Release|x86.ActiveCfg = Release|x64
+		{EE2C2D8C-BB54-434B-819F-D56FAAFA9939}.Debug|x64.ActiveCfg = Debug|x64
+		{EE2C2D8C-BB54-434B-819F-D56FAAFA9939}.Debug|x64.Build.0 = Debug|x64
+		{EE2C2D8C-BB54-434B-819F-D56FAAFA9939}.Debug|x86.ActiveCfg = Debug|x64
+		{EE2C2D8C-BB54-434B-819F-D56FAAFA9939}.Release|x64.ActiveCfg = Release|x64
+		{EE2C2D8C-BB54-434B-819F-D56FAAFA9939}.Release|x64.Build.0 = Release|x64
+		{EE2C2D8C-BB54-434B-819F-D56FAAFA9939}.Release|x86.ActiveCfg = Release|x64
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
